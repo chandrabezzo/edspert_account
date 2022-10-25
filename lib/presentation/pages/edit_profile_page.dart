@@ -4,6 +4,7 @@ import 'package:get/get.dart';
 
 class EditProfilePage<C extends EditProfileController> extends GetView<C> {
   static const routeName = '/profile/edit';
+
   const EditProfilePage({super.key});
 
   @override
